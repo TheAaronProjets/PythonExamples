@@ -2,9 +2,9 @@
 
 These are exercises I did at some point and decided to upload.
 
-If you want to contribute something, I appreciate it. Feedback helps me improve my future projects and my coding skills ;)."
+If you want to contribute something, I appreciate it. Feedback helps me improve my future projects and my coding skills ;).
 - - - - - - - - - - - - - - - - 
-Los archivos y los comentarios estan en Español por ahora
+Los archivos y los comentarios estan en Español por ahora.
 
 Estas son practicas que en algún momento hice y decidí subirlas.
 
